@@ -1,3 +1,4 @@
+//página cadastro
 import Navbar from "../components/Navbar/Navbar"
 import FormCadastro from "../components/FormCadastro/FormCadastro"
 
