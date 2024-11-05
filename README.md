@@ -23,3 +23,5 @@ O objetivo deste projeto é fornecer uma interface completa para um sistema base
 2. Colocar o comando "npm i" no terminal do projeto
 3. Depois disso deve instalar as dependencias do projeto que são precisas para a inicialização
 4. Após isso colocar o comando "npm run dev"
+
+link do video: https://youtu.be/HwSFR9s0FD0
