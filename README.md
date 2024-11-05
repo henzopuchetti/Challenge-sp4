@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# fiap-hh
 
-## Getting Started
+Este projeto foi feito em [Next.js](https://nextjs.org) e é parte do desafio do Challenge da Porto Seguro junato a FIAP. realiza operações de front-end, e está estruturada em TypeScript.
+Os integrantes são: Henzo Boschiero Puchetti - rm555179 e Humberto de Sousa - rm558482
 
-First, run the development server:
+## Visão Geral do Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O objetivo deste projeto é fornecer uma interface completa para um sistema baseado em um desafio FIAP que através dele temos o objetivo de revolucionar o mercado de serviços automotivos, com a junção de uma ideia inovadora e uma empresa muito grande no ramo como a Porto, assim conseguindo ter um aumento percentual no número de clientes atendidos por dia e consequentemente trazendo mais dinheiro. Ele foi desenvolvido utilizando Next.js com TypeScript.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instalação e Configuração
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Pré-requisitos
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Node.js
+- npm ou yarn
 
-## Learn More
+### Passos para Instalação
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone o repositório para o seu ambiente local:
+   ```bash
+   git clone https://github.com/seu-usuario/fiap-hh.git
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. Colocar o comando "npm i" no terminal do projeto
+3. Depois disso deve instalar as dependencias do projeto que são precisas para a inicialização
+4. Após isso colocar o comando "npm run dev"
