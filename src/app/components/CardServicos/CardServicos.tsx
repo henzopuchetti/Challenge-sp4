@@ -1,9 +1,8 @@
-//componente do card servicos
 "use client";
 
-import React from 'react';
 import Link from 'next/link'; // Importando o Link do Next.js
-import { CardContainer, CardServicoTitulo, CardServicoDescricao, CardServicoBotao } from './CardServicos.style';
+import React from 'react';
+import { CardContainer, CardServicoBotao, CardServicoDescricao, CardServicoTitulo } from './CardServicos.style';
 
 interface CardServicoProps {
   titulo: string;

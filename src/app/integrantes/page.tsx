@@ -1,5 +1,3 @@
-//página de integrantes
-
 import Navbar from "../components/Navbar/Navbar";
 import DadosIntegrantes from "../components/DadosIntegrantes/DadosIntegrantes";
 import Footer from "../components/Footer/Footer";
