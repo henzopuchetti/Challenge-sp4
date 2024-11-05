@@ -25,3 +25,4 @@ O objetivo deste projeto é fornecer uma interface completa para um sistema base
 4. Após isso colocar o comando "npm run dev"
 
 link do video: https://youtu.be/HwSFR9s0FD0
+link do vercel: https://challenge-sp4.vercel.app/
